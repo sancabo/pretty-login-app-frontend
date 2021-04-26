@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "React.js",
+    "desc": "to render the document that you're seeing right now."
+  },
+  {
+    "id": 2,
+    "name": "React Router",
+    "desc": "to make dashboard point to this page."
+  },
+  {
+    "id": 3,
+    "name": "React Hook Forms",
+    "desc": "to avoid reimplementing form validation and state logic."
+  },
+  {
+    "id": 4,
+    "name": "MaterialUI",
+    "desc": "to be able to use those beautiful animated buttons and inputs."
+  },
+  {
+    "id": 5,
+    "name": "Javascript fetch api",
+    "desc": "to request authentication to the backend."
+  },
+  {
+    "id": 6,
+    "name": "Session, Local, and Cookie Storage",
+    "desc": "to make the page remember you."
+  },
+  {
+    "id": 7,
+    "name": "Google Cloud's Firebase",
+    "desc": "to host this website."
+  },
+  {
+    "id": 8,
+    "name": "Java 11 + SpringBoot + Gradle",
+    "desc": "to implement the backend authentication service."
+  },
+  {
+    "id": 9,
+    "name": "Spring Data + JPA",
+    "desc": "to save your credentials."
+  },
+  {
+    "id": 10,
+    "name": "Json Web Tokens(JWT)",
+    "desc": "to indicate the backend what you can and can't access."
+  },
+  {
+    "id": 11,
+    "name": "Spring Security Cryptographic Library",
+    "desc": "to make the storage of your password extra secure."
+  },
+  {
+    "id": 12,
+    "name": "Google Cloud's App Engine.",
+    "desc": "to host and run the backend service."
+  },
+  {
+    "id": 13,
+    "name": "Google Cloud's https tools",
+    "desc": "so no one can see yout password while it's traveling."
+  },
+  {
+    "id": 14,
+    "name": "Git",
+    "desc": " to version control the application's code."
+  },
+  {
+    "id": 15,
+    "name": "Coming Soon ... ",
+    "desc": " Log in/Register via Google account using Oauth2!"
+  }
+]
